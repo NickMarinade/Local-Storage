@@ -28,7 +28,7 @@ Structure the project in steps, assign tasks to each student and integrate the c
 - Nick - [@NickMarinade](https://github.com/NickMarinade)
 - Alejandro - [@AlejoVE](https://github.com/AlejoVE)
 - [Hack Your Future Belgium](https://hackyourfuture.be/)
-- [Wes Bos tutorial](https://courses.wesbos.com/account/access/5e6e5e7eabb2b01ab6abf06c/view/194129962)
+
 
 
 ### <a href="https://hackyourfuture.be" target="_blank"><img src="https://user-images.githubusercontent.com/18554853/63941625-4c7c3d00-ca6c-11e9-9a76-8d5e3632fe70.jpg" width="100" height="100" alt="Hack Your Future: Belgium"></a>
