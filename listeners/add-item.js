@@ -1,0 +1,1 @@
+addItems.addEventListener('submit', addItem);
