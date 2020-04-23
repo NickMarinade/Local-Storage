@@ -1,0 +1,1 @@
+checkItems.addEventListener("click", checkItem);
